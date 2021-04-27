@@ -20,7 +20,7 @@ Add your intern script to the folder:
 Following this format:
   [surname]-[name].[ext]
 
-Example: ada-musa.js, ade_chika.py
+Example: ada-musa.js, ade-chika.py
 ```
 
 
@@ -29,13 +29,13 @@ Example: ada-musa.js, ade_chika.py
 Run:
   php -S localhost:8000 in the HNG-Script folder
 
-Visit the link in the browser that look like:
+Visit the link in the browser that looks like:
   http://127.0.0.1:8080/
 ```
 
 ## NOTE:
 
-Dart programmers must have dart install on the local machine for testing.
+Dart programmers must have dart installed on the local machine for testing.
 
 visit https://dart.dev/get-dart to install dart on your local machine.
 
